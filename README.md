@@ -1,4 +1,4 @@
-Watch Buddy Web Application
+#Watch Buddy Web Application
 
 Install Node
 You must install Node on your device, use this link to download if it is not on your device:
