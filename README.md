@@ -1,4 +1,4 @@
-#Watch Buddy Web Application
+## Watch Buddy Web Application
 
 Install Node
 You must install Node on your device, use this link to download if it is not on your device:
@@ -32,4 +32,6 @@ STEP 6 - Install all necessary dependencies using:
 STEP 7 - Run the application
 ## npm start
 Open http://localhost:3000/ to view the web application in a browser
+
+if you are struggling to run this code use this link : https://bit.ly/WatchBuddyDemo
 
